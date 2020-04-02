@@ -1,1 +1,4 @@
 Penambahan fitur kedua dari fork repository!
+
+Fitur 2 yang di tambahkan:
+- Penambahan halaman admin
